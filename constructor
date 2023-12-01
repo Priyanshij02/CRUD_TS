@@ -1,0 +1,8 @@
+
+a consrtuctor is a special function that creates, intializes an object instance of class. 
+a constructor gets called when an object is created using the new keyword
+  PURPOSE :set values for any existing object properties
+step 4 :
+  install mongodb
+ install mongoose pkg: it helps to connect mongodb using Node.js.
+  
