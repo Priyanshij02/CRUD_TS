@@ -1,0 +1,6 @@
+The schema is representation of dbase which represent dbase type.
+ Model is design that decides what should be there in schema.
+
+ PostSchemaValidate specify the fields types needed in req body in other to be 
+saves. it serves another layer of validation for reqst.
+
